@@ -1,7 +1,9 @@
 # ProjetoFinal
+
 Projeto Final de Laboratórios de Informatica da Universidade de Aveiro
 
 # Tema Proposto
+
 Este projeto visa criar uma plataforma digital de colecionismo de imagens digitais, ou de forma coloquial: uma caderneta digital de cromos. É proposto o desenvolvimento de uma plataforma Web Online que armazena as imagens originais de forma segura e que faz o acompanhamento das trocas digitais entre os colecionadores a que vamos chamar de Editora.
 
 A editora terá utilizadores com dois perfis distintos:
