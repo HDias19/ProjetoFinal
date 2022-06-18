@@ -1,6 +1,6 @@
 # ProjetoFinal
 
-Projeto Final de Laboratórios de Informatica da Universidade de Aveiro
+Projeto Final de Laboratórios de Informatica da Universidade de Aveiro realizado por Henrique Dias (98153), Pedro Santos (98158)
 
 # Tema Proposto
 
